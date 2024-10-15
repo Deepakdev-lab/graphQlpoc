@@ -1,0 +1,7 @@
+type Query {
+  isApplicationRunning: String!
+}
+
+type HealthCheckQuery {
+  isApplciaitonRunning: String!
+}
